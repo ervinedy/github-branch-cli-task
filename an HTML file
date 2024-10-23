@@ -1,1 +1,3 @@
-git init
+git add .
+git commit -m "Edit made in dev branch"
+
