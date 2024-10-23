@@ -1,3 +1,28 @@
-git add .
-git commit -m "Edit made in dev branch"
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Sample Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Sample Page</h1>
+    <p>This is a simple HTML page created for the purpose of demonstrating Git commands.</p>
+    <p>Current Branch: <strong>dev</strong></p>
+    <p>Feel free to make more edits!</p>
+</body>
+</html>
